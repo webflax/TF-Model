@@ -1,0 +1,7 @@
+*.hdf5
+*.moh
+*.docx
+*.pdf
+*.csv
+/duc
+/.ipynb_checkpoints
